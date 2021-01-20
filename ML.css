@@ -37,12 +37,13 @@ homepage.jumbotron {
   height: 400px;
 }
 games.jumbotron {
-  display: flex;
-  align-items: center;
-  background-image: url('https://images.unsplash.com/photo-1562229125-6d6075419a22?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80');
-  background-size: cover;
-  color: #ffffff;
-  height: 400px;
+    display: flex;
+    align-items: center;
+    background-image: url('https://images.unsplash.com/photo-1562229125-6d6075419a22?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80');
+    background-size: cover;
+    color: #ffffff;
+    height: 400px;
+}
 
 .jumbotron h2 {
   font-size: 60px;
